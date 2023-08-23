@@ -1,0 +1,4 @@
+*.log
+!sohail.log
+node_packs/
+sohail.txt
